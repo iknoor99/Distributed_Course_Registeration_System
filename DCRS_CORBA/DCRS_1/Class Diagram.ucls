@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.2" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <package id="1" language="java" name="client" project="DCRS_1" file="/DCRS_1/src/client" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="50" width="101" x="211" y="-122"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="2" language="java" name="client.DemoTest" project="DCRS_1" file="/DCRS_1/src/client/DemoTest.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="200" x="890" y="323"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="server.ServerComp" project="DCRS_1" file="/DCRS_1/src/server/ServerComp.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="405" width="314" x="352" y="-122"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="DCRS_1Corba.InterfaceCorbaHolder" project="DCRS_1" 
+    file="/DCRS_1/src/DCRS_1Corba/InterfaceCorbaHolder.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="209" x="1130" y="323"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="server.ImplementationRmi" project="DCRS_1" 
+    file="/DCRS_1/src/server/ImplementationRmi.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="441" width="349" x="2118" y="323"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="server.runServers" project="DCRS_1" file="/DCRS_1/src/server/runServers.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="113" x="706" y="-122"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="7" language="java" name="DCRS_1Corba.InterfaceCorbaOperations" project="DCRS_1" 
+    file="/DCRS_1/src/DCRS_1Corba/InterfaceCorbaOperations.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="218" x="1860" y="323"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="8" language="java" name="DCRS_1Corba.InterfaceCorba" project="DCRS_1" 
+    file="/DCRS_1/src/DCRS_1Corba/InterfaceCorba.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="63" width="109" x="1379" y="840"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="9" language="java" name="DCRS_1Corba.InterfaceCorbaPOA" project="DCRS_1" 
+    file="/DCRS_1/src/DCRS_1Corba/InterfaceCorbaPOA.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="317" x="2118" y="-122"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="server.ServerSoen" project="DCRS_1" file="/DCRS_1/src/server/ServerSoen.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="387" width="312" x="859" y="-122"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="11" language="java" name="server" project="DCRS_1" file="/DCRS_1/src/server" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="50" width="101" x="1211" y="-122"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="12" language="java" name="server.ServerInse" project="DCRS_1" file="/DCRS_1/src/server/ServerInse.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="405" width="307" x="1352" y="-122"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <package id="13" language="java" name="DCRS_1Corba" project="DCRS_1" file="/DCRS_1/src/DCRS_1Corba" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="50" width="104" x="1699" y="-122"/>    
+    <display autosize="true" stereotype="true" sort-features="false" accessors="true"/>  
+  </package>  
+  <class id="14" language="java" name="client.ClientCheck" project="DCRS_1" file="/DCRS_1/src/client/ClientCheck.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="477" width="183" x="1379" y="323"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="DCRS_1Corba._InterfaceCorbaStub" project="DCRS_1" 
+    file="/DCRS_1/src/DCRS_1Corba/_InterfaceCorbaStub.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="279" width="218" x="1602" y="323"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="DCRS_1Corba.InterfaceCorbaHelper" project="DCRS_1" 
+    file="/DCRS_1/src/DCRS_1Corba/InterfaceCorbaHelper.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="261" width="235" x="1843" y="-122"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <realization id="17">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="8"/>  
+  </realization>  
+  <association id="18">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="19" name="intercorba"/>      
+      <multiplicity id="20" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="21">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="9"/>  
+  </generalization>  
+  <association id="22">    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="23" name="value"/>      
+      <multiplicity id="24" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="25">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="26" name="intercorba"/>      
+      <multiplicity id="27" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="28">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="7"/>  
+  </realization>  
+  <generalization id="29">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="7"/>  
+  </generalization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

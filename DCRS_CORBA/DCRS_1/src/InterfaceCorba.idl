@@ -1,0 +1,12 @@
+module DCRS_1Corba
+{
+    interface InterfaceCorba{
+	boolean addCourse (in string courseID, in string semester, in string capacity);
+	boolean removeCourse (in string courseID,in string semester);
+	string  listCourseAvailability (in string semester);
+	string  enrolCourse (in string studentID, in string courseID,in string semester);
+	string  getClassSchedule (in string studentID);
+	boolean dropCourse (in string studentID,in string courseID);
+	string swapCourse(in string studentID,in string oldcourseID,in string newcourseID);
+};
+};
